@@ -2,6 +2,7 @@
 
 This is an updated version of [Flinder](https://github.com/ClementCollignon/Flinder).
 It relies on pymmcore for controling the microscope.
+Not usable as of now, this is a work in progress.
 
 ### Requirements
 
